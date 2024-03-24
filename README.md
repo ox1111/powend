@@ -8,4 +8,4 @@ if you want to debug the ROP chains enable LOCAL_EXP,
 and if someone wants to port it to another device or wants to chain 
 it with a kernel bug to have a tfp0, I'll be glad to help
 
-![8](8.png)
+![8](8.jpg)
